@@ -1,7 +1,7 @@
 ## Olá, Sou Gerson Jhonathan👋 
 
 
-- 🌱 Estudante de Sistemas de Informação, Linux, Phyton e Java Script.
+- 🌱 Estudante de Sistemas de Informação, Linux, Phyton, Photoshop e After Effects.
 #
 <div align="center">
   <a href="https://github.com/Green-Deo">
